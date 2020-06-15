@@ -1,0 +1,2 @@
+module CRIPT_10 {
+}
